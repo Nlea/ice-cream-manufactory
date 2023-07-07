@@ -1,0 +1,6 @@
+com/nlea/observability/demo/config/SimpleLoggingHandler.class
+com/nlea/observability/demo/config/ObservedAspectConfiguration.class
+com/nlea/observability/demo/IceCreamApplication.class
+com/nlea/observability/demo/controller/RestController.class
+com/nlea/observability/demo/icecreation/MixtureService.class
+com/nlea/observability/demo/icecreation/IceCreationService.class
